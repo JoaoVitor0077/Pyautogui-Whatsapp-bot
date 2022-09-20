@@ -1,0 +1,7 @@
+bote os números de celular no arquivo
+de texto "telefones" desse jeito:
+
+111111111
+222222222
+333333333
+444444444
